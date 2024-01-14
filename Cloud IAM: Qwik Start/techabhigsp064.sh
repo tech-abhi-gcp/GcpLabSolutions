@@ -1,7 +1,7 @@
 gsutil mb -l us -b on gs://$DEVSHELL_PROJECT_ID
 
 
-echo "subscribe to quicklab " > sample.txt
+echo "subscribe to techabhigcp " > sample.txt
 
 
 gsutil cp sample.txt gs://$DEVSHELL_PROJECT_ID
