@@ -1,3 +1,7 @@
+
+
+
+
 export REGION_1="${ZONE_1%-*}"
 
 export REGION_2="${ZONE_2%-*}"
