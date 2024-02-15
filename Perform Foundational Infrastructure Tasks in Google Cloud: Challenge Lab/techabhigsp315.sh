@@ -185,7 +185,7 @@ while true; do
     break
   else
     echo "Waiting for Cloud Run service to be created..."
-    echo "Meantime Subscribe to Quicklab[https://www.youtube.com/@quick_lab]."
+    echo "Meantime Subscribe to techabhigcp[https://www.youtube.com/@tech-abhi-gcp]."
     sleep 10
   fi
 done
