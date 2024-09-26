@@ -1,0 +1,55 @@
+# Task 2. Add an always_filter
+
+always_filter: {
+filters: [order_items.status: "Complete", users.country: "USA"]
+}
+
+# Click Save Changes. #
+
+Click Validate LookML and then click Commit Changes & Push.
+
+Add a commit message and click Commit.
+
+Lastly, click Deploy to Production.
+
+# Task 3. Add a sql_always_where filter :-
+Under the first line to define the Order Items Explore, add a new line and type sql_always_where followed by a colon (:):
+
+sql_always_where: ${created_date} >= '2021-01-01' ;;
+
+# Click Save Changes. #
+Click Validate LookML and then click Commit Changes & Push.
+
+Add a commit message and click Commit.
+
+Lastly, click Deploy to Production.
+
+# Task 4. Add a sql_always_having filter :-
+Under the first line to define the Order Items Explore, add a new line and type sql_always_having followed by a colon (:):
+
+sql_always_having: ${order_item_count} = 1 ;;
+
+Click Save Changes.
+
+Click Validate LookML and then click Commit Changes & Push.
+
+Add a commit message and click Commit.
+
+Lastly, click Deploy to Production.
+
+
+# Task 5. Add a conditionality_filter :-
+Remove the filter you created in the previous section.
+
+Under the first line to define the Order Items Explore, add a new line and type conditionally_filter followed by a colon (:) and curly braces ({}):
+conditionally_filter: {
+filters: [created_date: "3 years"]
+unless: [users.id, users.state]
+}
+
+Click Save Changes.
+Click Validate LookML and then click Commit Changes & Push.
+
+Add a commit message and click Commit.
+
+Lastly, click Deploy to Production.
