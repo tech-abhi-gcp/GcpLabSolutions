@@ -1,4 +1,4 @@
-## BigQuery: Qwik Start - Console || [GSP072](https://www.cloudskillsboost.google/focuses/1145?parent=catalog) ||
+# BigQuery Machine Learning using Soccer Data || [GSP851](https://www.cloudskillsboost.google/focuses/23293?parent=catalog) ||
 
 ## LAB Solution [Watch here](https://youtu.be/vKRQHIPFkng)
 
@@ -6,11 +6,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Machine%20Learning%20using%20Soccer%20Data/gsp851.sh
 
-sudo chmod +x gsp072.sh
+sudo chmod +x gsp851.sh
 
-./gsp072.sh
+./gsp851.sh
 
 ```
 
