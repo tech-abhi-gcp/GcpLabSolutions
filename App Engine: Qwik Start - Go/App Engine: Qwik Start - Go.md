@@ -6,11 +6,13 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+export REGION=
 
-sudo chmod +x gsp072.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Master/App%20Engine%3A%20Qwik%20Start%20-%20Go/gsp070.sh
 
-./gsp072.sh
+sudo chmod +x gsp070.sh
+
+./gsp070.sh
 
 ```
 
