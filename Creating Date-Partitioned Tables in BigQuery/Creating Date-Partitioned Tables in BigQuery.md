@@ -6,11 +6,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/Creating%20Date-Partitioned%20Tables%20in%20BigQuery/gsp414.sh
 
-sudo chmod +x gsp072.sh
+sudo chmod +x gsp414.sh
 
-./gsp072.sh
+./gsp414.sh
 
 ```
 
