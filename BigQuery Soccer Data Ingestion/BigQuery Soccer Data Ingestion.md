@@ -6,11 +6,11 @@
 ### Run the following Commands in CloudShell
 
 ```
-curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Qwik%20Start%20-%20Console/gsp072.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Soccer%20Data%20Ingestion/gsp848.sh
 
-sudo chmod +x gsp072.sh
+sudo chmod +x gsp848.sh
 
-./gsp072.sh
+./gsp848.sh
 
 ```
 
