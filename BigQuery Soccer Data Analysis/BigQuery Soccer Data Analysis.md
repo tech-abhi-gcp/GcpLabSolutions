@@ -8,9 +8,9 @@
 ```
 curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/BigQuery%20Soccer%20Data%20Analysis/gsp849.sh
 
-sudo chmod +x quicklabgsp849.sh
+sudo chmod +x gsp849.sh
 
-./quicklabgsp849.sh
+./gsp849.sh
 
 ```
 
