@@ -26,7 +26,7 @@ sudo chmod +x gsp072.sh
 
 # ### Thanks for watching and stay connected :)
 
---- <img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="45"># [TECH-ABHI-GCP](https://www.youtube.com/@tech-abhi-gcp)
+<img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="45"> [TECH-ABHI-GCP](https://www.youtube.com/@tech-abhi-gcp)
 
 
 
