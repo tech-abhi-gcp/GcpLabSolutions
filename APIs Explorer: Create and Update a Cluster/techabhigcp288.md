@@ -17,9 +17,9 @@
 ### 🚨Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/APIs%20Explorer%3A%20Create%20and%20Update%20a%20Cluster/techcps288.sh
-sudo chmod +x techcps288.sh
-./techcps288.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/APIs%20Explorer%3A%20Create%20and%20Update%20a%20Cluster/techabhigcp288.sh
+sudo chmod +x techabhigcp288.sh
+./techabhigcp288.sh
 ```
 ---
 
@@ -38,7 +38,7 @@ sudo chmod +x techcps288.sh
 
 ---
 
-# <img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="45"> [Techcps](https://www.youtube.com/@techcps) Don't Forget to like share & subscribe
+# <img src="https://github.com/user-attachments/assets/6ee41001-c795-467c-8d96-06b56c246b9c" alt="icon" width="45" height="42"> [Techabhigcp](https://www.youtube.com/@techcps) Don't Forget to like share & subscribe
 
 ### Thanks for watching and stay connected :)
 ---
