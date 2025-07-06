@@ -23,7 +23,7 @@ BOLD=`tput bold`
 RESET=`tput sgr0`
 #----------------------------------------------------start--------------------------------------------------#
 
-echo "${BG_CYAN}${BOLD}Starting Execution${RESET}"
+echo "${BG_WHITE}${BOLD}Starting Execution${RESET}"
 
 export PROJECT_ID=$(gcloud config get-value project)
 
