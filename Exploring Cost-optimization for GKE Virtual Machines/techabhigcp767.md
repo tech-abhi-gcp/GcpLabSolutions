@@ -16,9 +16,9 @@
 ### 🚨Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Exploring%20Cost-optimization%20for%20GKE%20Virtual%20Machines/techcps767.sh
-sudo chmod +x techcps767.sh
-./techcps767.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/Master/Exploring%20Cost-optimization%20for%20GKE%20Virtual%20Machines/techabhigcp767.sh
+sudo chmod +x techabhigcp767.sh
+./techabhigcp767.sh
 ```
 
 ---
