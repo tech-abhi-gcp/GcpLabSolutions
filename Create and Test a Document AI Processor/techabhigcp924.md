@@ -15,16 +15,16 @@
 
 ### 🚨Copy and run the below commands in Cloud Shell:
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Create%20and%20Test%20a%20Document%20AI%20Processor/techcps1.sh
-sudo chmod +x techcps1.sh
-./techcps1.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Master/Create%20and%20Test%20a%20Document%20AI%20Processor/techabhigcp1.sh
+sudo chmod +x techabhigcp1.sh
+./techabhigcp1.sh
 ```
 ---
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Create%20and%20Test%20a%20Document%20AI%20Processor/techcps2.sh
-sudo chmod +x techcps2.sh
-./techcps2.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Master/Create%20and%20Test%20a%20Document%20AI%20Processor/techabhigcp2.sh
+sudo chmod +x techabhigcp2.sh
+./techabhigcp2.sh
 ```
 ---
 
