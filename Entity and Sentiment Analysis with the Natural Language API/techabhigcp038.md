@@ -16,9 +16,9 @@
 ### 🚨Copy and run the below commands in Cloud Shell:
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API/techcps038.sh
-sudo chmod +x techcps038.sh
-./techcps038.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Master/Entity%20and%20Sentiment%20Analysis%20with%20the%20Natural%20Language%20API/techabhigcp038.sh
+sudo chmod +x techabhigcp038.sh
+./techabhigcp038.sh
 ```
 
 ---
