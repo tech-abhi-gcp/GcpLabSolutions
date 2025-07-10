@@ -21,6 +21,15 @@ curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Mast
 sudo chmod +x techabhigcp1088.sh
 ./techabhigcp1088.sh
 ```
+##### For the bucket name paste the following:
+```
+day2ops-log
+```
+###### For the dataset name paste the following:
+```
+day2ops_log
+
+```
 ---
 
 ### Congratulations, you're all done with the lab 😄
