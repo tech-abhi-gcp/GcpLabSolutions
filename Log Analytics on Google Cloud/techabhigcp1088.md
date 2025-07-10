@@ -17,9 +17,9 @@
 
 
 ```
-curl -LO raw.githubusercontent.com/Techcps/Google-Cloud-Skills-Boost/master/Log%20Analytics%20on%20Google%20Cloud/techcps1088.sh
-sudo chmod +x techcps1088.sh
-./techcps1088.sh
+curl -LO raw.githubusercontent.com/tech-abhi-gcp/GcpLabSolutions/refs/heads/Master/Log%20Analytics%20on%20Google%20Cloud/techabhigcp1088.sh
+sudo chmod +x techabhigcp1088.sh
+./techabhigcp1088.sh
 ```
 ---
 
